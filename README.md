@@ -38,5 +38,4 @@ To get a local copy up and running, follow these steps:
 
 You will need a web browser to view the site. Optionally, a code editor to view/edit the code.
 
-### Installation
 
